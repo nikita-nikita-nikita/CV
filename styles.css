@@ -187,8 +187,8 @@ footer>a{
   }
 }
 
-/* 400px avatar */
-@media (max-width: 400px){
+/* 580px avatar */
+@media (max-width: 580px){
   .head{
     flex-direction: column;
     align-items: center;
